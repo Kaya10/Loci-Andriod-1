@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<solid android:color="@color/game_created_activity_button_button_background_color"/>
+</shape>

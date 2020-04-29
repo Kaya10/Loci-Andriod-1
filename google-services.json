@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041212705665",
+    "firebase_url": "https://loci-app-1a9af.firebaseio.com",
+    "project_id": "loci-app-1a9af",
+    "storage_bucket": "loci-app-1a9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041212705665:android:770f172dde30768190b680",
+        "android_client_info": {
+          "package_name": "com.company_name.loci2__andriod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041212705665-7olfhi2qdde6hlfac9u3uq70mangrsmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL2qYMx496JdNlYFLqGgwItTJUzSjKpf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041212705665-7olfhi2qdde6hlfac9u3uq70mangrsmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

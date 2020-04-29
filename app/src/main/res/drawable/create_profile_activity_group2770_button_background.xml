@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<corners android:radius="@dimen/create_profile_activity_group2770_button_radius"/>
+
+	<solid android:color="@color/create_profile_activity_group2770_button_background_color"/>
+</shape>

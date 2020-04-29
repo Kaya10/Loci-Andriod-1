@@ -1,0 +1,145 @@
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.company_name.loci2__andriod">
+
+	<application
+		android:allowBackup="true"
+		android:icon="@mipmap/ic_launcher"
+		android:label="@string/app_name"
+		android:supportsRtl="true"
+		android:theme="@style/AppTheme">
+	
+		<activity
+			android:label=""
+			android:name=".activity.SIgnIn1Activity"
+			android:theme="@style/SIgnIn1ActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.CreateAGameActivity"
+			android:theme="@style/CreateAGameActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.GameCreatedActivity"
+			android:theme="@style/GameCreatedActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.GameListingActivity"
+			android:theme="@style/GameListingActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.Messaging2Activity"
+			android:theme="@style/Messaging2ActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.MyGamesActivity"
+			android:theme="@style/MyGamesActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.SignIn2Activity"
+			android:theme="@style/SignIn2ActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.CreateAGame2Activity"
+			android:theme="@style/CreateAGame2ActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.DashboardActivity"
+			android:theme="@style/DashboardActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.JoinAGame2Activity"
+			android:theme="@style/JoinAGame2ActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.OpeningActivity"
+			android:theme="@style/OpeningActivityTheme">
+		
+			<intent-filter>
+			
+				<category android:name="android.intent.category.LAUNCHER"/>
+			
+				<action android:name="android.intent.action.MAIN"/>
+			</intent-filter>
+		</activity>
+	
+		<activity
+			android:label=""
+			android:name=".activity.MessagesActivity"
+			android:theme="@style/MessagesActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.SignUpActivity"
+			android:theme="@style/SignUpActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.PlayerDetailsActivity"
+			android:theme="@style/PlayerDetailsActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.ProfileActivity"
+			android:theme="@style/ProfileActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.ResetPasswordActivity"
+			android:theme="@style/ResetPasswordActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.JoinedGamesActivity"
+			android:theme="@style/JoinedGamesActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.CreateProfileActivity"
+			android:theme="@style/CreateProfileActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.JoinAGameActivity"
+			android:theme="@style/JoinAGameActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.RequestActivity"
+			android:theme="@style/RequestActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.WelcomeActivity"
+			android:theme="@style/WelcomeActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.PasswordHasBeenResetActivity"
+			android:theme="@style/PasswordHasBeenResetActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.UpcomingGamesActivity"
+			android:theme="@style/UpcomingGamesActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.WebsiteActivity"
+			android:theme="@style/WebsiteActivityTheme"/>
+	
+		<activity
+			android:label=""
+			android:name=".activity.SignUpLandingActivity"
+			android:theme="@style/SignUpLandingActivityTheme"/>
+	</application>
+</manifest>

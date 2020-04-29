@@ -1,0 +1,84 @@
+<resources>
+	
+	<!-- Project level resources -->
+	<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimary">@color/color_primary</item>
+		<item name="colorPrimaryDark">@color/color_primary_dark</item>
+		<item name="colorAccent">@color/color_accent</item>
+	</style>
+	
+	<!-- SIgnIn1Activity -->
+	<style name="SIgnIn1ActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- CreateAGameActivity -->
+	<style name="CreateAGameActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- GameCreatedActivity -->
+	<style name="GameCreatedActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- GameListingActivity -->
+	<style name="GameListingActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- Messaging2Activity -->
+	<style name="Messaging2ActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- MyGamesActivity -->
+	<style name="MyGamesActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- SignIn2Activity -->
+	<style name="SignIn2ActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- CreateAGame2Activity -->
+	<style name="CreateAGame2ActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- DashboardActivity -->
+	<style name="DashboardActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- JoinAGame2Activity -->
+	<style name="JoinAGame2ActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- OpeningActivity -->
+	<style name="OpeningActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- MessagesActivity -->
+	<style name="MessagesActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- SignUpActivity -->
+	<style name="SignUpActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- PlayerDetailsActivity -->
+	<style name="PlayerDetailsActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- ProfileActivity -->
+	<style name="ProfileActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- ResetPasswordActivity -->
+	<style name="ResetPasswordActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- JoinedGamesActivity -->
+	<style name="JoinedGamesActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- CreateProfileActivity -->
+	<style name="CreateProfileActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- JoinAGameActivity -->
+	<style name="JoinAGameActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- RequestActivity -->
+	<style name="RequestActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- WelcomeActivity -->
+	<style name="WelcomeActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- PasswordHasBeenResetActivity -->
+	<style name="PasswordHasBeenResetActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- UpcomingGamesActivity -->
+	<style name="UpcomingGamesActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- WebsiteActivity -->
+	<style name="WebsiteActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+	
+	<!-- SignUpLandingActivity -->
+	<style name="SignUpLandingActivityTheme" parent="Theme.AppCompat.NoActionBar"/>
+</resources>

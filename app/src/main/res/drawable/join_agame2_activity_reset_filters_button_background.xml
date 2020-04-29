@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<stroke
+		android:color="@color/join_agame2_activity_reset_filters_button_border_color"
+		android:width="@dimen/join_agame2_activity_reset_filters_button_border_size"/>
+
+	<corners android:radius="@dimen/join_agame2_activity_reset_filters_button_radius"/>
+</shape>

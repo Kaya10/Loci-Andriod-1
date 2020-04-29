@@ -1,0 +1,56 @@
+<android.support.constraint.ConstraintLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/constraint_layout_constraint_layout"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/opening_activity_constraint_layout_constraint_layout_background_color">
+
+	<ImageView
+		android:id="@+id/group2776_image_view"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="@dimen/opening_activity_group2776_image_view_margin_start"
+		android:layout_marginTop="@dimen/opening_activity_group2776_image_view_margin_top"
+		android:scaleType="centerCrop"
+		android:src="@drawable/group_2776_3"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		tools:layout_editor_absoluteX="38dp"
+		tools:layout_editor_absoluteY="12dp"/>
+
+	<Button
+		android:id="@+id/group2777_button"
+		android:layout_width="@dimen/opening_activity_group2777_button_width"
+		android:layout_height="@dimen/opening_activity_group2777_button_height"
+		android:layout_marginBottom="@dimen/opening_activity_group2777_button_margin_bottom"
+		android:background="@drawable/opening_activity_group2777_button_ripple"
+		android:fontFamily="@font/font_nunitosans_bold"
+		android:gravity="start"
+		android:text="@string/opening_activity_group2777_button_text"
+		android:textColor="@color/opening_activity_group2777_button_text_color"
+		android:textSize="@dimen/opening_activity_group2777_button_text_size"
+		app:layout_constraintBottom_toTopOf="@+id/login_button"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintRight_toRightOf="parent"
+		tools:layout_editor_absoluteX="67dp"
+		tools:layout_editor_absoluteY="508dp"/>
+
+	<Button
+		android:id="@+id/login_button"
+		android:layout_width="@dimen/opening_activity_login_button_width"
+		android:layout_height="@dimen/opening_activity_login_button_height"
+		android:layout_marginBottom="@dimen/opening_activity_login_button_margin_bottom"
+		android:background="@drawable/opening_activity_login_button_ripple"
+		android:fontFamily="@font/font_nunitosans_bold"
+		android:gravity="center"
+		android:text="@string/opening_activity_login_button_text"
+		android:textColor="@color/opening_activity_login_button_text_color"
+		android:textSize="@dimen/opening_activity_login_button_text_size"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintLeft_toLeftOf="parent"
+		app:layout_constraintRight_toRightOf="parent"
+		tools:layout_editor_absoluteX="70dp"
+		tools:layout_editor_absoluteY="571dp"/>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<stroke
+		android:color="@color/create_agame_activity_rectangle133_button_border_color"
+		android:width="@dimen/create_agame_activity_rectangle133_button_border_size"/>
+
+	<corners android:radius="@dimen/create_agame_activity_rectangle133_button_radius"/>
+
+	<solid android:color="@color/create_agame_activity_rectangle133_button_background_color"/>
+</shape>
